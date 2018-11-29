@@ -6,7 +6,7 @@
 <body>
   <main>
   
-  <div class="main">
+  <div id="main">
   
     <h1 id="title">Yearly Membership Registration</h1>
   
@@ -15,9 +15,9 @@
   </div>
   
   
-  <div class="survey">
+  <div id="survey_div">
   
-  <section id="personal_info">
+  <section class="survey" id="personal_info">
   
   <h3>Personal Information:</h3>
   
@@ -27,25 +27,25 @@
     <input id="name" type="text" placeholder="name" required>
     </label>
     
-    <br>
+    <br><br>
     
     <label id="email-label">
     <input id="email" type="email" placeholder="email" required>
     </label>
     
-    <br>
+    <br><br>
     
     <label id="phone-label">
     <input id="phone" type="text" placeholder="phone" required>
     </label>
     
-    <br>
+    <br><br>
     
     <label id="address-label">
     <input id="name" type="text" placeholder="address" required>
     </label>
    
-   <br>
+   <br><br>
     
     
     
@@ -55,12 +55,10 @@
      
   </section>
     
-  <section id="membership">
+  <section class="survey" id="membership">
   
      <h3>Membership Level (please select):</h3>
-    
-    <br>
-     
+
      <select id="membership_options">
      
      <option value="1">Gold Membership -$500</option>
@@ -73,6 +71,8 @@
    </section>
     
 <br>
+
+  <section class="survey" id="">
    
     <input id="african-american" type="radio" name="race" value="1">
     African-Amerian
@@ -94,9 +94,11 @@
 
     <label for="blahblahblah">3</label><input id="blahblahblah" type="checkbox" name="three-blah" value="blahblahblah">
     
+    </section>
+    
 </div>
 
-<div class="comments"> 
+<div id="comments"> 
 
     <textarea cols="10" rows="10">additional comments here</textarea>
     
