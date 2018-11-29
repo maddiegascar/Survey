@@ -60,7 +60,9 @@
 
     <label for="blahblahblah">3</label><input id="blahblahblah" type="checkbox" name="three-blah" value="blahblahblah">
     
-<br> 
+</div>
+
+<div class="comments"> 
 
     <textarea cols="10" rows="10">additional comments here</textarea>
     
