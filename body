@@ -10,7 +10,7 @@
   
     <h1 id="title">Yearly Membership Registration</h1>
   
-    <p id="description"></p>
+    <p id="description">description</p>
     
   </div>
   
@@ -23,19 +23,25 @@
     <input id="name" type="text" placeholder="name" required>
     </label>
     
+    <br>
+    
     <label id="email-label">
     <input id="email" type="email" placeholder="email" required>
     </label>
     
+    <br>
     
-        <label id="phone-label">
+    <label id="phone-label">
     <input id="phone" type="text" placeholder="phone" required>
     </label>
     
-        <label id="address-label">
+    <br>
+    
+    <label id="address-label">
     <input id="name" type="text" placeholder="address" required>
     </label>
    
+   <br>
     
     
     
