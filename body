@@ -21,23 +21,19 @@
   
     <label id="name-label">
     <input id="name" type="text" placeholder="name" required>
-    required
     </label>
     
     <label id="email-label">
     <input id="email" type="email" placeholder="email" required>
-    required
     </label>
     
     
         <label id="phone-label">
     <input id="phone" type="text" placeholder="phone" required>
-    required
     </label>
     
         <label id="address-label">
-    <input id="name" type="text" placeholder="name" required>
-    required
+    <input id="name" type="text" placeholder="address" required>
     </label>
    
     
