@@ -49,12 +49,22 @@
      <input id="number" type="number" placeholder="number" min="1" max="100">
      </label>
     
-     <select id="membership">
+  <section id="membership">
+  
+     Membership Level (please select):
+    
+    <br>
+     
+     <select id="membership_options">
+     
      <option value="1">Gold Membership -$500</option>
      <option value="2">Silver Membership - $250</option>
      <option value="3">Bronze Membership - $100</option>
      <option value="2">Basic Membership - $50</option>
+     
      </select>
+     
+   </section>
     
 <br>
    
