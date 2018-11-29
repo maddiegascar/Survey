@@ -8,6 +8,10 @@
   
   <div id="main">
   
+  <img id="company_logo" alt="Company Logo" url=""></img>
+  
+  <br>
+  
     <h1 id="title">Yearly Membership Registration</h1>
   
     <p id="description">description</p>
