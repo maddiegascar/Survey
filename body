@@ -8,9 +8,9 @@
   
   <div class="main">
   
-    <h1 id="title">Title</h1>
+    <h1 id="title">Yearly Membership Registration</h1>
   
-    <p id="description">Short explanation.</p>
+    <p id="description"></p>
     
   </div>
   
@@ -28,6 +28,20 @@
     <input id="email" type="email" placeholder="email" required>
     required
     </label>
+    
+    
+        <label id="phone-label">
+    <input id="phone" type="text" placeholder="phone" required>
+    required
+    </label>
+    
+        <label id="address-label">
+    <input id="name" type="text" placeholder="name" required>
+    required
+    </label>
+   
+    
+    
     
      <label id="number-label"> 
      <input id="number" type="number" placeholder="number" min="1" max="100">
