@@ -12,9 +12,9 @@
   
   <br>
   
-    <h1 id="title">Yearly Membership Registration</h1>
+    <h1 id="title">Sign up for our newsletter!</h1>
   
-    <p id="description">description</p>
+    <p id="description">Description</p>
     
   </div>
   
@@ -27,11 +27,7 @@
   
     <form id="survey-form" action="/submitname">
   
-    <label id="name-label">
-    <input id="name" type="text" placeholder="name" required>
-    </label>
-    
-    <br><br>
+   
     
     <label id="email-label">
     <input id="email" type="email" placeholder="email" required>
@@ -39,9 +35,21 @@
     
     <br><br>
     
-    <label id="phone-label">
-    <input id="phone" type="text" placeholder="phone" required>
+     <label id="first-name-label">
+    <input id="first-name" type="text" placeholder="first name" required>
     </label>
+    
+    <label id="last-name-label">
+    <input id="last-name" type="text" placeholder="last name" required>
+    </label>
+    
+    
+    </section>
+    
+    <section id="mailing list">
+    
+    <h3> Please, add me to your mailinglist! </h3>
+    
     
     <br><br>
     
