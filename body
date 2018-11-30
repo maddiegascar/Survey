@@ -5,17 +5,16 @@
   div#company {
   margin: auto;
   width: 50%;
+  text-align: center;
   }
   
   div#title {
   margin: auto;
   width: 50%;
+  text-align: center;
   }
   
-  label#subscribe_label {
-  margin: auto;
-  width: 50%;
-  }
+
   
   
    
