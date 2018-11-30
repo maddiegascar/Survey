@@ -48,15 +48,17 @@
     
     <section id="mailing-list">
     
-    <h3> Please, add me to your mailing list! 
-    
+      <h3> Please, add me to your mailing list! 
+       
+      <p id="consent">I consent to receiving emails from your company and accept your
+      <a href="LINK TO TERMS AND CONDIITONS">terms and conditions</link>.
+      </p>
       <label for="mailing_list">
        
-       <p id="consent">I consent to receiving emails from your company and accept your
-       <a href="LINK TO TERMS AND CONDIITONS">terms and conditions</link>.
-       </p>
+
       
       </label>
+      
       <input id="submit" type="checkbox" name="add" value="add">
      
       
