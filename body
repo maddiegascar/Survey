@@ -59,28 +59,9 @@
    
    <br><br>
     
-    
-    
-     <label id="number-label"> 
-     <input id="number" type="number" placeholder="number" min="1" max="100">
-     </label>
-     
   </section>
-    
-  <section class="survey" id="membership">
   
-     <h3>Membership Level (please select):</h3>
-
-     <select id="membership_options">
-     
-     <option value="1">Gold Membership -$500</option>
-     <option value="2">Silver Membership - $250</option>
-     <option value="3">Bronze Membership - $100</option>
-     <option value="2">Basic Membership - $50</option>
-     
-     </select>
-     
-   </section>
+ 
     
 <br>
 
