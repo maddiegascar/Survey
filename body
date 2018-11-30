@@ -6,13 +6,16 @@
 <body>
   <main>
   
-  <div id="main">
+  <div id="company">
   
   <img id="company_logo" alt="Company Logo" url=""></img>
   
-  <br>
+  </div>
   
-    <h1 id="title">Sign up for our newsletter!</h1>
+  
+  <div id="title">
+  
+    <h1 id="sign_up">Sign up for our newsletter!</h1>
   
     <p id="description">Description</p>
     
