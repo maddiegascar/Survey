@@ -1,5 +1,22 @@
 <html>
+
 <style>
+  
+  div#company {
+  margin: auto;
+  width: 100%;
+  }
+  
+  div#title {
+  margin: auto;
+  width: 100%;
+  }
+  
+  
+   
+  
+  
+  
 </style>
 
 
