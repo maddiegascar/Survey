@@ -5,14 +5,23 @@
   div#company {
   margin: auto;
   width: 50%;
-  text-align: center;
+  }
+  
+  h1#sign_up {
+  text-align:center;
   }
   
   div#title {
   margin: auto;
   width: 50%;
-  text-align: center;
   }
+  
+  p#description {
+  text-align: center
+  }
+  
+ 
+  
   
 
   
