@@ -7,8 +7,8 @@
   width: 50%;
   }
   
-  h1#sign_up {
-  text-align:center;
+  img#logo {
+  text-align: center;
   }
   
   div#title {
@@ -16,8 +16,13 @@
   width: 50%;
   }
   
+   
+  h1#sign_up {
+  text-align:center;
+  }
+  
   p#description {
-  text-align: center
+  text-align: center;
   }
   
  
