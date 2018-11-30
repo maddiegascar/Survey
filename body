@@ -4,17 +4,17 @@
   
   div#company {
   margin: auto;
-  width: 100%;
+  width: 50%;
   }
   
   div#title {
   margin: auto;
-  width: 100%;
+  width: 50%;
   }
   
   label#subscribe_label {
   margin: auto;
-  width: 100%;
+  width: 50%;
   }
   
   
