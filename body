@@ -46,10 +46,17 @@
     
     </section>
     
-    <section id="mailing list">
+    <section id="mailing-list">
     
-    <h3> Please, add me to your mailinglist! </h3>
     
+    <label for="mailing_list">
+    
+      <h3> Please, add me to your mailing list! 
+      </label>
+      <input id="submit" type="checkbox" name="add" value="add">
+      </h3>
+      
+   
     
     <br><br>
     
@@ -58,44 +65,12 @@
     </label>
    
    <br><br>
-    
-  </section>
   
- 
+    <button id="subscribe">SUBSCRIBE</button></form>
     
-<br>
-
-  <section class="survey" id="">
-   
-    <input id="african-american" type="radio" name="race" value="1">
-    African-Amerian
-    </input>
     
-    <input id="caucasian" type="radio"  name="race" value="2">
-    Caucasian
-    </input>
-
-    <input id="latino" type="radio" name="race" value="3">
-    Latino
-    </input>
-    
-<br>
-
-    <label for="blah">1</label><input id="blah" type="checkbox" name="three-blah" value="blah">
-
-    <label for="blahblah">2<label><input id="blahblah" type="checkbox" name="three-blah" value="blahblah">
-
-    <label for="blahblahblah">3</label><input id="blahblahblah" type="checkbox" name="three-blah" value="blahblahblah">
-    
-    </section>
-    
-</div>
-
-<div id="comments"> 
-
-    <textarea cols="10" rows="10">additional comments here</textarea>
-    
-    <button id="submit">SUBMIT</button></form>
+       
+  </section>
     
 </div>
 </main>
