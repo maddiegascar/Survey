@@ -67,6 +67,12 @@
     <input id="last-name" type="text" placeholder="last name" required>
     </label>
     
+    <br><br>
+    
+    <label id="address-label">
+    <input id="name" type="text" placeholder="address" required>
+    </label>
+    
     
     </section>
     
@@ -83,17 +89,7 @@
       <input id="submit" type="checkbox" name="add" value="add">
       
       </label>
-      
-      
-     
-      
-   
-    
-    <br><br>
-    
-    <label id="address-label">
-    <input id="name" type="text" placeholder="address" required>
-    </label>
+
    
    <br><br>
   
